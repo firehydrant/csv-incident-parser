@@ -75,5 +75,5 @@ const getFireHydrantIncidents = (count = 100) => {
   });
 }
 
-const count = getFireHydrantIncidentCount();
+const count = getFireHydrantIncidentCount('01-01-2021');
 getFireHydrantIncidents(count)
