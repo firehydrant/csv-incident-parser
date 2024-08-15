@@ -6,6 +6,6 @@
   "dependencies": {
     "fs": "^0.0.1-security",
     "json-2-csv": "^3.10.2",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.7.0"
   }
 }
